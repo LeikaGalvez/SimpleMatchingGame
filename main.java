@@ -11,7 +11,7 @@ class HelloWorld {
         // Print the rules
         System.out.println("This game is like the bottle match challenge on TikTok. \nExcept, we're matching numbers!\nThere are 5 numbers in a box, ranging from 1-5. \nYou will guess the numbers inside the box, \nand the numbers inside cannot be repeated.\nIf you want to end the game, just type \"end\" in the next prompt. \nAre you ready to guess?\n\nPlease enter your guesses, separated by commas, no spaces. \n(Example:  1,2,3,4,5)");
         
-        // get input/guess from user
+        // get input from user
         Scanner sc = new Scanner(System.in);
         int correctGuesses = 0;
         
@@ -95,4 +95,5 @@ class HelloWorld {
         }
         System.out.print("]");
     }
+//made by leika:)
 }
