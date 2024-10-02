@@ -6,9 +6,8 @@ This game is like the bottle match challenge on TikTok. Except, we're matching n
 #
 
 ### Preview
-![image](https://github.com/user-attachments/assets/1671b09a-8886-4fda-a254-6cb89d401347) 
-#
-![image](https://github.com/user-attachments/assets/8f42a99d-201e-419a-b605-953d602e0def)
+![image](https://github.com/user-attachments/assets/7580cc67-4158-4c30-a485-abf0fead8d5f)
+
 
 
 #
