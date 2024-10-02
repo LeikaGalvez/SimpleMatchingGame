@@ -1,7 +1,7 @@
 # Simple Matching Game
 
 ### Rules:
-This game is like the bottle match challenge on TikTok. Except, we're matching numbers! There are 5 numbers in a box, ranging from 1-5. You will guess the numbers inside the box, and the numbers cannot be repeated. If you want to end the game, just type "end" in the next prompt. Are you ready to guess?
+This game is like the bottle color match challenge on TikTok. Except, we're matching numbers! There are 5 numbers in a box, ranging from 1-5. You will guess the numbers inside the box, and the numbers cannot be repeated. If you want to end the game, just type "end" in the next prompt. Are you ready to guess?
 
 #
 
